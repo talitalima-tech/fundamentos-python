@@ -1,0 +1,5 @@
+nome = input()
+c = input()
+i = int(input())
+procura = str.find(nome, c, i)
+print(f'{procura}')

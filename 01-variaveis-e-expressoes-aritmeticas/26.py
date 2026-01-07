@@ -1,0 +1,5 @@
+nome = input()
+l1 = input()
+l2 = input()
+nome1 = nome.replace(l1, l2)
+print(f'{nome1}')

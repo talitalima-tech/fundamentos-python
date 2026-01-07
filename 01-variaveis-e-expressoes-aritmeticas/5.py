@@ -1,0 +1,5 @@
+raio = float(input())
+v = (4/3) *3.14159265359 * (raio**3)
+a = 4 * 3.14159265359 * (raio**2)
+print(f"{v:.2f}")
+print(f"{a:.2f}")
